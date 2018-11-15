@@ -5,3 +5,6 @@ psvm
 syso
 Class
 Object
+
+branch variable a;
+variable b;
